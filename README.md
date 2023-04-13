@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ### 🔍 planing to learn
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)  ![Go Badge](https://img.shields.io/badge/Vite-31A8FF?logo=Go&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)  ![Go Badge](https://img.shields.io/badge/Go-31A8FF?logo=Go&logoColor=fff&style=flat)
 
 ### 📫 How to reach me: 
 - co_sin_o@163.com
