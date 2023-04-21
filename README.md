@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Linn3a&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=radical" /> </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
+a fdu sophomore majored in computer science </br>
+**something about my coding**:
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Linn3a&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=radical" /> 
+</div>
 <div align="center">
 
 ### 🌱 currently learning 
@@ -26,6 +27,8 @@ Here are some ideas to get you started:
 
 ### 🔍 planning to learn
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)  ![Go Badge](https://img.shields.io/badge/Go-31A8FF?logo=Go&logoColor=fff&style=flat)
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linn3a&theme=radical" />
 
 ### 📫 How to reach me: 
 co_sin_o@163.com
