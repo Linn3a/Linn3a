@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-a FDU sophomore majored in computer science 💻 </br>
+a FDU junior majored in computer science 💻 </br>
 **about me ✨**
 <div align="center"> 
 <!--   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Linn3a&count_private=true&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=radical" />  -->
@@ -23,11 +23,7 @@ a FDU sophomore majored in computer science 💻 </br>
 
 ### 🌱 currently learning 
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)    ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-
-
-### 🔍 planning to learn
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)  ![Go Badge](https://img.shields.io/badge/Go-31A8FF?logo=Go&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-31A8FF?logo=Go&logoColor=fff&style=flat) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) 
   
   
 ### 🔧 my tech stack
